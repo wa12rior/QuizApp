@@ -10,3 +10,5 @@ The goal was to create an educational app that quizzes a user about a certain to
 
 * [Android Studio](https://developer.android.com/studio/index.html)
 * [Material Design](https://material.io/guidelines/) 
+* [Stack Overflow](https://stackoverflow.com/)
+* [Udacity](https://udacity.com)
